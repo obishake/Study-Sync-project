@@ -21,7 +21,7 @@ This is a responsive landing page created as a practice project using **HTML** a
 
 ## 📷 Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](front_page.png)
 
 ---
 
