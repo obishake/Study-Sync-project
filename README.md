@@ -27,7 +27,7 @@ This is a responsive landing page created as a practice project using **HTML** a
 
 ## 🚀 Live Demo
 
-🔗 [View Project](https://abishek2002tk.github.io/Study-Sync-project)
+🔗 [View Project](https://study-sync-project-amber.vercel.app)
 
 ---
 
